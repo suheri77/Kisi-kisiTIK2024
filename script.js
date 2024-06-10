@@ -342,11 +342,11 @@ const questions = [
     {
         question: "Apa yang dimaksud dengan tag HTML yang digunakan untuk menandai judul sebuah halaman web?", //29/OK/
         answers: [
-            { text: " <title>", correct: true },
-            { text: "<h1>", correct: false },
-            { text: "<head>", correct: false },
-            { text: "<body>", correct: false },
-            { text: "<div>", correct: false },
+            { text: "title", correct: true },
+            { text: "h1", correct: false },
+            { text: "head", correct: false },
+            { text: "body", correct: false },
+            { text: "div", correct: false },
         ],
     },
 
